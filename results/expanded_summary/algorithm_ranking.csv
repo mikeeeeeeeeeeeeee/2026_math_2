@@ -1,0 +1,5 @@
+algorithm,instances,best_or_tied,strict_best,not_best,mean_color_gap,median_time_seconds,geomean_time_vs_dsatur
+greedy_welsh_powell,125,20,0,105,1.048,0.0001424130023224,0.025559308575008585
+dsatur,125,109,0,16,0.136,0.0068998189963167,1.0
+tabu_search,125,125,13,0,0.0,0.0456591469992417,8.187281911298705
+structure_aware_hybrid,125,112,0,13,0.104,0.0082245059893466,1.8479654208137992

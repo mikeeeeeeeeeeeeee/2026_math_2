@@ -1,0 +1,14 @@
+density_bin,best_algorithm,count
+very sparse,dsatur,11
+very sparse,greedy_welsh_powell,6
+very sparse,structure_aware_hybrid,7
+very sparse,tabu_search,3
+sparse,dsatur,24
+sparse,greedy_welsh_powell,10
+sparse,structure_aware_hybrid,22
+sparse,tabu_search,5
+medium,dsatur,12
+medium,structure_aware_hybrid,2
+medium,tabu_search,6
+dense,dsatur,11
+dense,tabu_search,1

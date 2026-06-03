@@ -1,0 +1,3 @@
+comparison,wins,ties,losses,mean_color_delta,geomean_time_ratio
+hybrid_vs_dsatur,3,122,0,-0.032,1.8479654208137992
+hybrid_vs_tabu,0,112,13,0.104,0.22571171248708913

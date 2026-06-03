@@ -1,0 +1,4 @@
+comparison,wins,ties,losses,mean_color_delta,bootstrap_ci_low,bootstrap_ci_high,two_sided_sign_p_excluding_ties
+hybrid_minus_dsatur,3,122,0,-0.032,-0.072,0.0,0.25
+hybrid_minus_tabu,0,112,13,0.104,0.056,0.16,0.000244140625
+tabu_minus_dsatur,16,109,0,-0.136,-0.2,-0.072,3.0517578125e-05
